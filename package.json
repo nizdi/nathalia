@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<seu-usuario>.github.io/psychologist-site",
+  "homepage": "https://nizdi.github.io/nathalia",
   "dependencies": {
     "aos": "^3.0.0-beta.6",
     "react": "^18.2.0",
