@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nathalia/static/css/main.cd472c42.css",
+    "main.js": "/nathalia/static/js/main.604da3a6.js",
+    "static/media/about-photo.png": "/nathalia/static/media/about-photo.37f459d7776f5d22af7c.png",
+    "static/media/hero-bg.png": "/nathalia/static/media/hero-bg.76645b8f801854151f1b.png",
+    "index.html": "/nathalia/index.html",
+    "main.cd472c42.css.map": "/nathalia/static/css/main.cd472c42.css.map",
+    "main.604da3a6.js.map": "/nathalia/static/js/main.604da3a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd472c42.css",
+    "static/js/main.604da3a6.js"
+  ]
+}
